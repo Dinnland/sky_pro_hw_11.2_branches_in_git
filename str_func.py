@@ -1,4 +1,4 @@
 def capital_letters(line):
     return line.upper()
 
-print(capital_letters('апваопвап'))
+#print(capital_letters('апваопвап'))
